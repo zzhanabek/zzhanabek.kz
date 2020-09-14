@@ -1,6 +1,8 @@
 /* http://weeklynerd.nickrttn.me/articles/grid.html */
+/* https://gist.github.com/terkel/4c3be80feae6a7dd6fc6 */
 body{
 	background-color: black;
+	margin: 11.111vh 22.222vw 22.222vh 11.111vw;
 	/* font-family: SST, Arial, Helvetica, sans-serif; */
 	font-family: Arial Black, Arial Black, Gadget, sans-serif;
 }
