@@ -1,6 +1,8 @@
+/* http://weeklynerd.nickrttn.me/articles/grid.html */
 body{
 	background-color: black;
-	font-family: SST, Arial, Helvetica, sans-serif;
+	/* font-family: SST, Arial, Helvetica, sans-serif; */
+	font-family: Arial Black, Arial Black, Gadget, sans-serif;
 }
 h1, p, article{
 	color: white;
